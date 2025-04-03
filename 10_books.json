@@ -1,0 +1,62 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "genre": "Fiction",
+    "published_year": 1960,
+    "author": "Harper Lee"
+  },
+  {
+    "title": "1984",
+    "genre": "Mystery",
+    "published_year": 1949,
+    "author": "George Orwell"
+  },
+  {
+    "title": "Moby-Dick",
+    "genre": "Fantasy",
+    "published_year": 1851,
+    "author": "Herman Melville"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "genre": "Fantasy",
+    "published_year": 1813,
+    "author": "Jane Austen"
+  },
+  {
+    "title": "The Great Gatsby",
+    "genre": "Fiction",
+    "published_year": 1925,
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "title": "Crime and Punishment",
+    "genre": "Mystery",
+    "published_year": 1866,
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "genre": "Fiction",
+    "published_year": 1951,
+    "author": "J.D. Salinger"
+  },
+  {
+    "title": "The Hobbit",
+    "genre": "Non-Fiction",
+    "published_year": 1937,
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Brave New World",
+    "genre": "Science",
+    "published_year": 1932,
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "The Odyssey",
+    "genre": "History",
+    "published_year": 1802,
+    "author": "Homer"
+  }
+]
