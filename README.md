@@ -71,3 +71,5 @@ To run the tests, use:
 ```sh
 coverage run -m pytest --asyncio-mode=auto && coverage report
 ```
+
+To test bulk import functionality you can yose 10_books.json stored in project root
